@@ -58,3 +58,40 @@ Existen diversos tipos de pruebas de software que se utilizan para evaluar difer
 * Se centran en evaluar la facilidad de uso, la experiencia del usuario y la accesibilidad del software.
 
 ![](https://2.bp.blogspot.com/-H3fhjLWrehs/XIVZgPFfW2I/AAAAAAAAAD4/anK1GTQHtbQ8T-TjKpuGtz9yQDwDUxRnwCLcBGAs/s1600/imagen.jpg) 
+
+#### Patrones GoF
+
+#### ¿Qué son?
+
+* Los patrones GoF (Gang of Four) son un conjunto de patrones de diseño de software que fueron presentados por Erich Gamma, Richard Helm, Ralph Johnson y John Vlissides en su libro "Design Patterns: Elements of Reusable Object-Oriented Software". Estos patrones representan soluciones probadas y reutilizables para problemas comunes en el diseño de software orientado a objetos.
+
+![](https://www.scielo.cl/fbpe/img/infotec/v24n3/art12-t14.jpg)
+
+*Los patrones GoF se dividen en tres categorías principales:
+
+#### Patrones de creación
+
+*Se enfocan en la creación de objetos y abordan el problema de la instanciación y configuración de objetos de manera flexible y eficiente. Algunos ejemplos de patrones de creación son el Singleton, el Builder y el Factory Method.
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--F1JLI7Xl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://experto.dev/wp-content/uploads/2019/07/desing-pattern-types.jpg)
+
+#### Patrones de estructura
+
+* Se centran en la composición y estructura de clases y objetos para formar relaciones más complejas. Estos patrones ayudan a crear jerarquías de objetos flexibles y extensibles. Ejemplos de patrones de estructura incluyen el Adapter, el Decorator y el Composite.
+
+![](https://2.bp.blogspot.com/-AsHvPLLWK9s/U6vGcrw0eoI/AAAAAAAAD-M/oPwlZVVUutE/s1600/patron-iterador-by-DavidNa-Wikimedia.png)
+
+#### Patrones de comportamiento
+
+*  Se ocupan del comportamiento y la interacción entre objetos, proporcionando soluciones para implementar algoritmos, manejar eventos y comunicarse entre componentes. Algunos patrones de comportamiento comunes son el Observer, el Strategy y el Template Method.
+
+![](https://unpocodejava.files.wordpress.com/2013/05/image0021.jpg)
+
+* Cada patrón GoF tiene un propósito específico y se basa en principios de diseño sólidos. Estos patrones han demostrado ser soluciones efectivas y ampliamente utilizadas en el desarrollo de software orientado a objetos, proporcionando un enfoque estructurado y flexible para resolver problemas recurrentes.
+
+####                         Gracias por su atención
+
+![](https://i.ytimg.com/vi/-NAYOhwIqGQ/maxresdefault.jpg)
+
+
+
