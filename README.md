@@ -1,7 +1,7 @@
 # Pruebas de software
-*Carreño Brayan - 2220231120
+* Carreño Brayan - 2220231120
 
-*Peña Jesus -
+* Peña Jesus -
 
 #### ¿Qué son las pruebas de software?
 
