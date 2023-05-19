@@ -1,4 +1,4 @@
-# Pruebas de software
+# Pruebas de software y patrones GoF
 * Carreño Brayan - 2220231120
 
 * Peña Jesus -
