@@ -1,7 +1,7 @@
 # Pruebas de software y patrones GoF
 * Carreño Brayan - 2220231120
 
-* Peña Jesus -
+* Peña Jesus - 2220231108
 
 #### ¿Qué son las pruebas de software?
 
