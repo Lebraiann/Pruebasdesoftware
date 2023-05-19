@@ -1,2 +1,4 @@
-# Pruebasdesoftware
-Trabajo hecho por: Brayan Carreño y Jesus Peña
+# Pruebas de software
+Carreño Brayan - 2220231120
+Peña Jesus -
+
